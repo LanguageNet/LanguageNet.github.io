@@ -1,5 +1,6 @@
 ## News
-Currently this repository contains 3-month raw data sample, and our 1-year URL data is available now: 2,869,657 candidate pairs. Please check our [paraphrase website](https://languagenet.github.io/) to download dataset. 
+1.We are building large-scale multi-lingual paraphrase datasets right now. As planned, we will have 10-language corpus and each language has 50k pairs!
+2.Currently this repository contains 3-month raw data sample, and our 1-year URL data is available now: 2,869,657 candidate pairs. Please check our [paraphrase website](https://languagenet.github.io/) to download dataset. 
 
 ## Paraphrase-dataset
 This repository contains code and data used in the following paper, please cite if you use it for your research:
